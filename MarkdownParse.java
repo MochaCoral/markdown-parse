@@ -27,6 +27,7 @@ public class MarkdownParse {
             
 
             //System.out.println(currentIndex + " " + markdown.charAt(currentIndex-1));
+
         }
         return toReturn;
     }
