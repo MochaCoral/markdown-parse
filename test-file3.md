@@ -1,7 +1,3 @@
-#title
-
-[a link!](https://something.com)
-[another link!](some-page.html)
+# title
 
 []link goes here!
-
